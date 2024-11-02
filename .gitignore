@@ -37,7 +37,7 @@ local.properties
 # node.js
 #
 node_modules/
-constants/indes.js
+constants/index.js
 npm-debug.log
 yarn-error.log
 
